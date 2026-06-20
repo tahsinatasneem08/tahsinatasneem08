@@ -47,6 +47,6 @@ A smart web application based on a Bangla Academy approved dictionary utilizing 
 ---
 
 ## 🤝 Connect With Me
-* GitHub: https://github.com/YOUR_USERNAME
+
 * LinkedIn: https://www.linkedin.com/in/tahsina-tasneem-b23117272/
 * Portfolio: https://tahsinatasneem08.github.io/Portfolio-Tahsina/
